@@ -1,0 +1,20 @@
+WOOD
+Crafting speed: 22.5 = 15/s wood
+Speed Factor = 18x greenhouses
+
+Bonus = (22.5 x 18 greenhouse ) / 3 modules = 135 (270 S3)
+cost of 1T3 ~ 3700 raws
+Total cost (modules) = 135 x 3700 = 500.000
+Tc / 20 tree_types / 40 wood_per_tree = 626 trees of each type as ingredient
+
+1 forest = 500k wood
+
+
+AIR
+Crafting speed: 28.8 = 
+Speed factor = 14x atmospheric compressors
+
+Bonus = (28.5 x 14 air compressors) / 2 modules = 400 / 2 = 200
+cost of 1T3 ~ 3700
+Total cost (modules) = 200 x 3700 = 750.000
+750k / 3 types_of_air = 250k of each type
