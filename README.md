@@ -13,8 +13,9 @@ All the technologies, recipes and modules are available about late game, after _
 
 - **Turbos** : can only be placed in Atmospheric Condensers to boost air-compressing. Turbos require engine units and a big volume of compressed water in order to operate, but will make Atmospheric Condensers extremely fast at what they do.
 
+![UPS-modules-showcase](https://github.com/RedRafe/ups-modules/blob/main/archive/showcase.png?raw=true)
 
-Additionally, new "bulk" recipes similar to K2's own recipes are created, with special icons, in order to avoid Greenhouses & Atm. Comndensers to eventually hit the _1 craft/second_ limit, similar to stacked recipes.
+Additionally, new "bulk" recipes similar to K2's own recipes are created, with special icons, in order to avoid Greenhouses & Atm. Condensers to eventually hit the _1 craft/second_ limit, similar to stacked recipes.
 
 ---
 ### Translation
